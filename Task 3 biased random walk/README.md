@@ -7,4 +7,4 @@ Start from the code we developed in class, but now let the particle take a step 
 1. You can consult numpy documentation for choice() to find out how to do this with an optional argument p=...
 https://numpy.org/doc/stable/reference/random/generated/numpy.random.choice.html
 
-2. Can you implementing another version still using np.random.choice() but we're not allowed to use the p=... argument?
+2. Can you implement another version still using np.random.choice() but we're not allowed to use the p=... argument?
