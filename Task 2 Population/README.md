@@ -2,7 +2,7 @@
 
 In this assignment we will practice using the axis argument in numpy functions. 
 
-A 18x4 table is given for the population of 4 countries from 1995 to 2020 in steps of 5 years. Every column is a country. Every row is a year, starting from 2020 in the first row and 1995 in the last row.
+A 18x4 table is given for the population of 4 countries from 1955 to 2015 in steps of 5 years, plus every year from 2016 to 2020 in step of 1 year. Every column is a country. Every row is a year, starting from 2020 in the first row and 1995 in the last row.
 
 Calculate the average population for every year across all countries considered here using np.sum() and an appropriate axis as the optional argument. The result should be 18 numbers for the 18 years we consider.
 
