@@ -1,4 +1,4 @@
-# Week 10 Task 2
+#Problem 2 
 
 In this assignment we will practice using the axis argument in numpy functions. 
 
