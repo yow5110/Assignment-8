@@ -28,7 +28,7 @@ popula = [[3.31002651e+08, 1.28932753e+08, 3.77421540e+07, 2.12559417e+08],
 # using np.sum() and an appropriate argument of axis=...
 # The result should be 18 numbers for the 18 years we consider.
 
-# Plot population against year for all 4 countries using slicing, all on the same plot. 
+# Plot population against year for all 4 countries using array slicing, all on the same plot. 
 # Then plot the average population every year you just calculated on the same plot.
 
 
