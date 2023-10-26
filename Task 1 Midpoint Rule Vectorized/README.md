@@ -1,4 +1,4 @@
-# Week 10 Task 1
+# Problem 1
 
 In this assignment we will revisit integration using the midpoint rule. This time around, instead of using a for loop to accumulate the integrand, we will vectorize the process using numpy arrays and np.sum().
 
