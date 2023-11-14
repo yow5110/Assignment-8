@@ -14,7 +14,7 @@ def midpoint(n):
         integral = integral + np.sin((i+0.5)*dx)*dx    
 
     print(integral) 
-    # timing this function using n=1e6 takes about 1 second.
+
     
     
 def midpoint_vec(n):
@@ -27,6 +27,5 @@ def midpoint_vec(n):
     # Write a vectorized version of the same integration here
     # without using any loop or list comprehension.
     
-    # timing this function using n=1e6 should takes about 100 ms.
 
     
