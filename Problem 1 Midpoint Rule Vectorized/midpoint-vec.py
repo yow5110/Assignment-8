@@ -1,5 +1,5 @@
-# Week 10 Task 1
- 
+# Problem 1
+
 def midpoint(n):
     # n is the number of increments between a and b
     n = int(n)
